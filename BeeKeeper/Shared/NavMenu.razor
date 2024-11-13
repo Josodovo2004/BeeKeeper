@@ -1,27 +1,56 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">BeeKeeper</a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        <!-- Elimina o comenta la línea del logotipo para quitar la palabra NECTARLIFE -->
+        @* <div class="logo">NECTARLIFE</div> *@
     </div>
 </div>
 
-<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
+<div class="sidebar">
+    <nav class="flex-column nav-links">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
+            <NavLink class="nav-link" href="/colmenar" Match="NavLinkMatch.All">
+                Colmenar
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            <NavLink class="nav-link" href="/tareas">
+                Lista de tareas
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            <NavLink class="nav-link" href="/notas">
+                Notas
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/alimentacion">
+                Alimentación
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/veterinario">
+                Control veterinario
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/infestados">
+                Infestados
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/cosechas">
+                Cosechas
+            </NavLink>
+        </div>
+        <hr />
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/cuenta">
+                Cuenta
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/salir">
+                Salir
             </NavLink>
         </div>
     </nav>
@@ -30,10 +59,17 @@
 @code {
     private bool collapseNavMenu = true;
 
+
+
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
+
+
     private void ToggleNavMenu()
+
     {
+
         collapseNavMenu = !collapseNavMenu;
+
     }
 }

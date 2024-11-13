@@ -1,4 +1,5 @@
 using BeeKeeper.Data;
+using BeeKeeper.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
@@ -8,6 +9,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+builder.Services.AddHttpClient();
+builder.Services.AddSqlite<BeeDbContext>("Data Source=beeKeeper.db");
+
+builder.Services.AddScoped<EspecieService>();
+builder.Services.AddScoped<PanalService>();
+
 
 var app = builder.Build();
 

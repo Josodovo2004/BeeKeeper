@@ -2,7 +2,7 @@
 {
     public class Enfermedad
     {
-        public int IdEnfermedad { get; set; }
+        public int IdEnfermedad { get; set; }  // Se considera la clave primaria automáticamente.
         public string Descripcion { get; set; }
 
         public ICollection<Tratamiento> Tratamientos { get; set; }

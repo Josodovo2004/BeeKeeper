@@ -26,12 +26,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/JoseAguilar/source/repos/BeeKeeper/BeeKeeper/Pages/Especies.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXNwZWNpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JoseAguilar/source/repos/BeeKeeper/BeeKeeper/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JoseAguilar/source/repos/BeeKeeper/BeeKeeper/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JoseAguilar/source/repos/BeeKeeper/BeeKeeper/Pages/NuevaEspecie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVldmFFc3BlY2llLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JoseAguilar/source/repos/BeeKeeper/BeeKeeper/Shared/SurveyPrompt.razor]

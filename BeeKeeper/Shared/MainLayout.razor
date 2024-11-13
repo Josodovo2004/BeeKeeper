@@ -1,19 +1,22 @@
 ﻿@inherits LayoutComponentBase
 
-<PageTitle>BeeKeeper</PageTitle>
-
-<div class="page">
+<div class="page modo-oscuro" style="min-height: 100vh; width: 100%; display: flex;">
     <div class="sidebar">
+        <!-- Logotipo en la parte superior del Sidebar -->
+        <div class="logo">NectarLife</div>
+
+        <!-- Sección de enlaces de navegación -->
         <NavMenu />
     </div>
 
-    <main>
+    <!-- Contenido principal -->
+    <div class="main" style="flex-grow: 1; background-color: var(--fondo); color: var(--fondo-letra);">
         <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+            <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
         </div>
 
-        <article class="content px-4">
+        <div class="content px-4">
             @Body
-        </article>
-    </main>
+        </div>
+    </div>
 </div>

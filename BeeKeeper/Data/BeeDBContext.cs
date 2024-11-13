@@ -3,6 +3,10 @@ using Microsoft.EntityFrameworkCore;
 
 public class BeeDbContext : DbContext
 {
+
+    public BeeDbContext(DbContextOptions<BeeDbContext> options) : base(options)
+    {
+    }
     public DbSet<Especie> Especies { get; set; }
     public DbSet<Panal> Panales { get; set; }
     public DbSet<Enfermedad> Enfermedades { get; set; }
@@ -30,6 +34,23 @@ public class BeeDbContext : DbContext
 
         modelBuilder.Entity<Cosecha>()
             .HasKey(c => new { c.IdCosecha, c.IdProductoPanal });
+
+        modelBuilder.Entity<Enfermedad>()
+        .HasKey(e => e.IdEnfermedad);
+
+        modelBuilder.Entity<Especie>()
+            .HasKey(e => e.IdEspecie);
+
+        modelBuilder.Entity<Evento>()
+            .HasKey(e => e.IdEvento);
+
+        modelBuilder.Entity<Medicamento>()
+            .HasKey(m =>  m.IdMedicamento);
+
+        modelBuilder.Entity<Producto>()
+            .HasKey(p => p.IdProducto);
+
+
 
         // Define relationships if needed (not strictly necessary if EF Core can infer them)
     }

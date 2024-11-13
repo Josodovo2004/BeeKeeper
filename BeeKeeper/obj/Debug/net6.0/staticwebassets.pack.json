@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BeeKeeper.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
       "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -49,12 +53,20 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\img\\abeja.png",
+      "PackagePath": "staticwebassets\\img\\abeja.png"
+    },
+    {
+      "Id": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BeeKeeper.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -5,6 +5,8 @@
         public int IdEspecie { get; set; }
         public string Nombre { get; set; }
 
+        public string Descripcion { get; set; }
+
         public ICollection<Panal> Panales { get; set; }
         public ICollection<ProductoPanal> ProductoPanales { get; set; }
     }

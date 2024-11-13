@@ -3,6 +3,90 @@
   "WorkspaceRootPath": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\pages\\nuevaespecie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\pages\\nuevaespecie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\pages\\especies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\pages\\especies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\services\\especieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\services\\especieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\services\\panalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\services\\panalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\panal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\panal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\data\\beedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\data\\beedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\productopanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\productopanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\cosecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\cosecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\panalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\panalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\models\\enfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\models\\enfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|c:\\users\\joseaguilar\\source\\repos\\beekeeper\\beekeeper\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DE60658-78A6-484F-98B6-0BB4BC878CEF}|BeeKeeper\\BeeKeeper.csproj|solutionrelative:beekeeper\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,11 +98,280 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NuevaEspecie.razor",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\NuevaEspecie.razor",
+              "RelativeDocumentMoniker": "BeeKeeper\\Pages\\NuevaEspecie.razor",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\NuevaEspecie.razor",
+              "RelativeToolTip": "BeeKeeper\\Pages\\NuevaEspecie.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T22:04:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Especies.razor",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\Especies.razor",
+              "RelativeDocumentMoniker": "BeeKeeper\\Pages\\Especies.razor",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\Especies.razor",
+              "RelativeToolTip": "BeeKeeper\\Pages\\Especies.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T22:03:17.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PanalService.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Services\\PanalService.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Services\\PanalService.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Services\\PanalService.cs",
+              "RelativeToolTip": "BeeKeeper\\Services\\PanalService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:01:25.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BeeKeeper\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BeeKeeper\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:50:57.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Program.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Program.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Program.cs",
+              "RelativeToolTip": "BeeKeeper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:26:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BeeKeeper\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BeeKeeper\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:51:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Data\\BeeDBContext.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Data\\BeeDBContext.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Data\\BeeDBContext.cs",
+              "RelativeToolTip": "BeeKeeper\\Data\\BeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:37:53.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BeeKeeper\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\Index.razor",
+              "RelativeToolTip": "BeeKeeper\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:52:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EspecieService.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Services\\EspecieService.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Services\\EspecieService.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Services\\EspecieService.cs",
+              "RelativeToolTip": "BeeKeeper\\Services\\EspecieService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:32:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Especie.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Especie.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Especie.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Especie.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Especie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:39:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BeeKeeper\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BeeKeeper\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T21:55:52.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PanalEvento.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\PanalEvento.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\PanalEvento.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\PanalEvento.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\PanalEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:48:59.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Panal.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Panal.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Panal.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Panal.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Panal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:40:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeeKeeper\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeeKeeper\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T21:57:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Evento.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:48:27.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cosecha.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Cosecha.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Cosecha.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Cosecha.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Cosecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:47:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoPanal.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\ProductoPanal.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\ProductoPanal.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\ProductoPanal.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\ProductoPanal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:43:46.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Producto.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:43:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tratamiento.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Tratamiento.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Tratamiento.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Tratamiento.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Tratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:42:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Medicamento.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Medicamento.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:41:46.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enfermedad.cs",
+              "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Enfermedad.cs",
+              "RelativeDocumentMoniker": "BeeKeeper\\Models\\Enfermedad.cs",
+              "ToolTip": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Models\\Enfermedad.cs",
+              "RelativeToolTip": "BeeKeeper\\Models\\Enfermedad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:41:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\Users\\JoseAguilar\\source\\repos\\BeeKeeper\\BeeKeeper\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "BeeKeeper\\Pages\\_Host.cshtml",
@@ -26,8 +379,7 @@
               "RelativeToolTip": "BeeKeeper\\Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T19:25:10.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:25:10.324Z"
             }
           ]
         }
